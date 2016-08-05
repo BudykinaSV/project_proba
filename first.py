@@ -1,6 +1,6 @@
 for i in range(1,5,1):
     print("+")
-x=1
+x=-5
 while x<5:
     print(x)
-    x+=0.5
+    x+=1
